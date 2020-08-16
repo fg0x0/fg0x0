@@ -5,12 +5,10 @@
 ## I'm a Cyber Security Instructor, Researcher , Bug Hunter , CTF Player
 
 - 🔭 I’m currently working on a [LIVE MACHINE HACKING][hackthebox]
-- 🌱 I’m currently learning Web Exploitation
+- 🌱 I’m currently learning [Web Exploitation][web]
 - 👯 I’m looking to collaborate with other mongolian content creators
 - 🥅 2020 Goals: Road to [OSCP][oscp] , [OSWE][oswe] & [Guru][hackthebox]
 - ⚡ Fun fact: I'm Professional Electro Dancer.
-### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 ### Connect with me:
 
@@ -47,14 +45,14 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [UPDATE: Next Level GitHub Profile README (NEW) | GitHub Actions | Vercel | Spotify](https://www.youtube.com/watch?v=n6d4KHSKqGk)
-- [SPEED RUN: Build a CRUD API with PrestoAPI & MongoDB Atlas in 9 Minutes! Then Airbnb Clone!](https://www.youtube.com/watch?v=6C45qCt41VY)
-- [Building BATTLESHIPS Multiplayer Game with Node.js, Express, Socket.io, Heroku | (2/3)](https://www.youtube.com/watch?v=TpAwggQJPUQ)
-- [GSAP Typing Animation | Tween & Timeline Basics (2020)](https://www.youtube.com/watch?v=ZT66N5hBiCE)
-- [Next Level GitHub Profile README (NEW) | How To Create An Amazing Profile ReadMe With GitHub Actions](https://www.youtube.com/watch?v=ECuqb5Tv9qI)
+- [Day In The Life Of A Mongolian New Generation Cyber Security Instructor](https://www.youtube.com/watch?v=gLOtg-L2g4Y&t=0s)
+- [ДЭЛХИЙН 3-Р ДАЙН ??? || World War III ???](https://www.youtube.com/watch?v=QJFnbZRlLxA&t=0s)
+- [ArchLinux vs Ubuntu аль нь ялах вэ? || ArchLinux vs Ubuntu](https://www.youtube.com/watch?v=y8QVPJTbg_s&t=0s)
+- [РАНКАА ӨСГӨӨД ДЭЛХИЙН ХЭМЖЭЭНИЙ КОМПАНИД ОРЦГООЁ || HackerRank , HackTheBox](https://www.youtube.com/watch?v=CGiOrjWc96c&t=0s)
+- [КИБЕР АЮУЛГҮЙ БАЙДЛЫН ЗАМНАЛАА ТОДОРХОЙЛЦГООЁ ( Cyber Security Careers and Paths )](https://www.youtube.com/watch?v=xLJBSFiLN6Y&t=0s)
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://youtube.com/codestackr)
+➡️ [more videos...](https://youtube.com/fantasm)
 
 ---
 
@@ -102,3 +100,4 @@
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
 [oscp]: https://www.offensive-security.com/pwk-oscp/
 [oswe]: https://www.offensive-security.com/awae-oswe/
+[web]: https://www.youtube.com/watch?v=Ll31QMh3kBM&list=PLWOqJmFMmcPlruwKWnmVxe3V5MePgadYI
