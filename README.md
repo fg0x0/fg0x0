@@ -4,12 +4,11 @@
 
 ## I'm a Cyber Security Instructor, Researcher , Bug Hunter , CTF Player
 
-- 🔭 I’m currently working on a [VS Code Course][website]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
-
+- 🔭 I’m currently working on a [LIVE MACHINE HACKING][hackthebox]
+- 🌱 I’m currently learning Web Exploitation
+- 👯 I’m looking to collaborate with other mongolian content creators
+- 🥅 2020 Goals: Road to [OSCP][https://www.offensive-security.com/pwk-oscp/] , [OSWE][https://www.offensive-security.com/awae-oswe/] & [Guru][hackthebox]
+- ⚡ Fun fact: I'm Professional Electro Dancer.
 ### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
@@ -93,6 +92,7 @@
 
 </details>
 
+[hackthebox]: https://www.hackthebox.eu/home/users/profile/126217
 [website]: https://fg0d.github.io/about-me
 [youtube]: https://youtube.com/fantasm
 [instagram]: https://instagram.com/fgoddd
