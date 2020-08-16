@@ -68,14 +68,10 @@
 
 ➡️ [more blog posts...](https://youtube.com/fantasm)
 ---
-<details>
 
-<details>
   <summary>:zap: Github Stats</summary>
 
   <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.fg0d.vercel.app/api?username=fg0d&show_icons=true&hide_border=true" />
-
-</details>
 
 [hackthebox]: https://www.hackthebox.eu/home/users/profile/126217
 [website]: https://fg0d.github.io/about-me
