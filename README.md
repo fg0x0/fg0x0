@@ -1,4 +1,4 @@
-### Wasss good ? I'm Yalguun. [fg0d][website] 👋
+### Wasss good ? I'm Yalguun. [fg0d][website] 👋🕵🏻‍♂️
 
 [![Website](https://img.shields.io/website?label=fg0d.github.io/about-me&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://fg0d.github.io/about-me)
 
