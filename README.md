@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on a [LIVE MACHINE HACKING][hackthebox]
 - 🌱 I’m currently learning Web Exploitation
 - 👯 I’m looking to collaborate with other mongolian content creators
-- 🥅 2020 Goals: Road to [OSCP][https://www.offensive-security.com/pwk-oscp/] , [OSWE][https://www.offensive-security.com/awae-oswe/] & [Guru][hackthebox]
+- 🥅 2020 Goals: Road to [OSCP][oscp] , [OSWE][oswe] & [Guru][hackthebox]
 - ⚡ Fun fact: I'm Professional Electro Dancer.
 ### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
@@ -100,3 +100,5 @@
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[oscp]: https://www.offensive-security.com/pwk-oscp/
+[oswe]: https://www.offensive-security.com/awae-oswe/
