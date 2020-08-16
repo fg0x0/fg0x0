@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=fg0d.github.io/about-me&style=for-the-badge&url=httsp://fg0d.github.io/about-me)](https://fg0d.github.io/about-me/)
 
-## I'm a Cyber Security Instructor, Researcher & Bug Hunter
+## I'm a Cyber Security Instructor, Researcher , Bug Hunter , CTF Player
 
 - 🔭 I’m currently working on a [VS Code Course][website]!
 - 🌱 I’m currently learning everything 🤣
@@ -95,11 +95,9 @@
 
 </details>
 
-[website]: https://codeSTACKr.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[website]: https://fg0d.github.io/about-me
+[youtube]: https://youtube.com/fantasm
+[instagram]: https://instagram.com/fgoddd
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
