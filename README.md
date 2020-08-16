@@ -67,6 +67,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://youtube.com/fantasm)
+
 ---
 
   <summary>:zap: Github Stats</summary>
