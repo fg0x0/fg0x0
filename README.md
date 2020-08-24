@@ -1,5 +1,7 @@
 ### Wasss good ? I'm Yalguun. [fg0d][website] 👋
 
+![fg0ddd](https://i.giphy.com/media/J1RkaDFP5tljU1fPXy/giphy.webp)
+
 ![FantasM](https://i.giphy.com/media/iIMfCFNeQ9N8chs3O9/giphy.webp)
 
 [![Website](https://img.shields.io/website?label=fg0d.github.io/about-me&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://fg0d.github.io/about-me)
