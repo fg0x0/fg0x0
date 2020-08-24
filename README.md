@@ -1,6 +1,6 @@
 ### Wasss good ? I'm Yalguun. [fg0d][website] 👋
 
-![fg0ddd](https://i.giphy.com/media/J1RkaDFP5tljU1fPXy/giphy.webp)
+![fg0ddd](https://i.giphy.com/media/JpqUGAsKpj7sXmJ8yY/giphy.webp)
 
 ![FantasM](https://i.giphy.com/media/iIMfCFNeQ9N8chs3O9/giphy.webp)
 
