@@ -91,3 +91,4 @@
 [oscp]: https://www.offensive-security.com/pwk-oscp/
 [oswe]: https://www.offensive-security.com/awae-oswe/
 [web]: https://www.youtube.com/watch?v=Ll31QMh3kBM&list=PLWOqJmFMmcPlruwKWnmVxe3V5MePgadYI
+[tryhackme]: https://tryhackme.com/p/fg0d
