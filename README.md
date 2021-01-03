@@ -12,7 +12,7 @@
 
 -     Hacking Rank's
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/fg0d.png" alt="TryHackMe">
+![fg0ddd](https://tryhackme-badges.s3.amazonaws.com/fg0d.png)
 
 - 🔭 I’m currently working on a [LIVE MACHINE HACKING][hackthebox]
 - 🌱 I’m currently learning [Web Exploitation][web]
