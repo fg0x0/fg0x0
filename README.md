@@ -10,9 +10,9 @@
  
 ### $whoami
 
--     Hacking Rank's
+- Hacking Rank's
 
-![fg0ddd](https://tryhackme-badges.s3.amazonaws.com/fg0d.png)
+![github-large](https://tryhackme-badges.s3.amazonaws.com/fg0d.png)
 
 - 🔭 I’m currently working on a [LIVE MACHINE HACKING][hackthebox]
 - 🌱 I’m currently learning [Web Exploitation][web]
@@ -98,3 +98,4 @@
 [oswe]: https://www.offensive-security.com/awae-oswe/
 [web]: https://www.youtube.com/watch?v=Ll31QMh3kBM&list=PLWOqJmFMmcPlruwKWnmVxe3V5MePgadYI
 [tryhackme]: https://tryhackme.com/p/fg0d
+[github-large]: https://tryhackme-badges.s3.amazonaws.com/fg0d.png
