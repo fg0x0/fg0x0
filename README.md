@@ -17,7 +17,7 @@
 - 🔭 I’m currently working on a [LIVE MACHINE HACKING][hackthebox]
 - 🌱 I’m currently learning [Web Exploitation][web]
 - 👯 I’m looking to collaborate with other mongolian content creators
-- 🥅 2021 Goals: Road to [OSCP][oscp] , [OSWE][oswe] & [Guru][hackthebox] , & [0xGOD][tryhackme]
+- 🥅 2021 Goals: Road to [OSCP][oscp] , [OSWE][oswe] , [Guru][hackthebox] , & [0xGOD][tryhackme]
 - ⚡ Fun fact: I'm Professional Electro Dancer.
 
 ### Connect with me:
