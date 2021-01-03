@@ -7,12 +7,6 @@
 [![Website](https://img.shields.io/website?label=fg0d.github.io/about-me&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://fg0d.github.io/about-me)
 
 ## I'm a Cyber Security Instructor, Researcher , Bug Hunter , CTF Player 🕵🏻‍♂️
- 
-### $whoami
-
-- Hacking Rank's
-
-![github-large](https://tryhackme-badges.s3.amazonaws.com/fg0d.png)
 
 - 🔭 I’m currently working on a [LIVE MACHINE HACKING][hackthebox]
 - 🌱 I’m currently learning [Web Exploitation][web]
