@@ -81,7 +81,7 @@
   <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.fg0d.vercel.app/api?username=fg0d&show_icons=true&hide_border=true" />
 
 [hackthebox]: https://www.hackthebox.eu/home/users/profile/126217
-[website]: https://fg0d.github.io/about-me
+[website]: https://fg0d.github.io/
 [youtube]: https://youtube.com/fantasm
 [instagram]: https://instagram.com/fgoddd
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
