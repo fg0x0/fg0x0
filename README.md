@@ -24,34 +24,7 @@
 
 ---
 
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [Day In The Life Of A Mongolian New Generation Cyber Security Instructor](https://www.youtube.com/watch?v=gLOtg-L2g4Y&t=0s)
-- [ДЭЛХИЙН 3-Р ДАЙН ??? || World War III ???](https://www.youtube.com/watch?v=QJFnbZRlLxA&t=0s)
-- [ArchLinux vs Ubuntu аль нь ялах вэ? || ArchLinux vs Ubuntu](https://www.youtube.com/watch?v=y8QVPJTbg_s&t=0s)
-- [РАНКАА ӨСГӨӨД ДЭЛХИЙН ХЭМЖЭЭНИЙ КОМПАНИД ОРЦГООЁ || HackerRank , HackTheBox](https://www.youtube.com/watch?v=CGiOrjWc96c&t=0s)
-- [КИБЕР АЮУЛГҮЙ БАЙДЛЫН ЗАМНАЛАА ТОДОРХОЙЛЦГООЁ ( Cyber Security Careers and Paths )](https://www.youtube.com/watch?v=xLJBSFiLN6Y&t=0s)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://youtube.com/fantasm)
-
----
-
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [FBI issues warning over Windows 7 end-of-life](https://www.facebook.com/OfficialFantasM/photos/a.1723295741068382/3377533755644564/?type=3&theater)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
-- [Deno 1.0 Released! (Easy) REST API Example](https://dev.to/codestackr/deno-1-0-released-easy-rest-api-example-2fbl)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://youtube.com/fantasm)
-
----
-
+<br />
   <summary>:zap: Github Stats</summary>
 
   <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.fg0d.vercel.app/api?username=fg0d&show_icons=true&hide_border=true" />
