@@ -1,4 +1,4 @@
-### Wasss good ? I'm Yalguun. [fg0d][website] 👋
+### Wasss good ? I'm Yalguun. [fg0d][website] 🏴‍☠️
 
 ![fg0ddd](https://i.giphy.com/media/JpqUGAsKpj7sXmJ8yY/giphy.webp)
 
