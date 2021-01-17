@@ -2,8 +2,6 @@
 
 ![fg0ddd](https://i.giphy.com/media/JpqUGAsKpj7sXmJ8yY/giphy.webp)
 
-![FantasM](https://i.giphy.com/media/iIMfCFNeQ9N8chs3O9/giphy.webp)
-
 [![Website](https://img.shields.io/website?label=fg0d.github.io&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://fg0d.github.io/)
 
 ## I'm a Cyber Security Instructor, Researcher , Bug Hunter , CTF Player 🕵🏻‍♂️
