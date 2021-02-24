@@ -1,4 +1,4 @@
-### You can call me fg0d if you can pronounce it xD. Briefly, I have spent my University Carreer studying Cyber Security and I am an Cyber Security Instructor. I hacked over 200+ machines around HackTheBox, TryHackMe, RootMe, VulnHub.. and I constantly study new ways of breaking through defenses, CVEs and zero days. [fg0d][website] 🏴‍☠️
+##### You can call me fg0d if you can pronounce it xD. Briefly, I have spent my University Carreer studying Cyber Security and I am an Cyber Security Instructor. I hacked over 200+ machines around HackTheBox, TryHackMe, RootMe, VulnHub.. and I constantly study new ways of breaking through defenses, CVEs and zero days. [fg0d][website] 🏴‍☠️
 
 ![fg0ddd](https://i.giphy.com/media/JpqUGAsKpj7sXmJ8yY/giphy.webp)
 
