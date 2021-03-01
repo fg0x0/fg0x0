@@ -18,7 +18,6 @@
 [<img align="left" alt="fgoddd | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
----
 
 <img src="http://www.hackthebox.eu/badge/image/126217" alt="Hack The Box">
 
