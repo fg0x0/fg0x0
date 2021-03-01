@@ -1,6 +1,6 @@
 ##### You can call me fg0d if you can pronounce it xD. Briefly, I have spent my University Career studying Cyber Security and I am an Cyber Security Instructor. I hacked over 200+ machines around HackTheBox, TryHackMe, RootMe, VulnHub.. and I constantly study new ways of breaking through defenses, CVEs and zero days. [fg0d][website] 🏴‍☠️
 
-![fg0ddd](https://i.giphy.com/media/JpqUGAsKpj7sXmJ8yY/giphy.webp)
+<img src="http://www.hackthebox.eu/badge/image/126217" alt="Hack The Box">
 
 [![Website](https://img.shields.io/website?label=fg0d.github.io&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://fg0d.github.io/)
 
@@ -18,8 +18,6 @@
 [<img align="left" alt="fgoddd | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
-
-<img src="http://www.hackthebox.eu/badge/image/126217" alt="Hack The Box">
 
   <summary>:zap: Github Stats</summary>
 <br />
