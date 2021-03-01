@@ -21,7 +21,7 @@
 
   <summary>:zap: Github Stats</summary>
 <br />
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.fg0d.vercel.app/api?username=fg0d&show_icons=true&hide_border=true" />
+  <img align="left" alt="fg0d" src="https://github-readme-stats.fg0d.vercel.app/api?username=fg0d&show_icons=true&hide_border=true&theme=radical" />
 
 [hackthebox]: https://www.hackthebox.eu/home/users/profile/126217
 [website]: https://fg0d.github.io/
