@@ -8,7 +8,7 @@
 
 - 🤖 I’m currently working on a [LIVE MACHINE HACKING][hackthebox]
 - 👾 I’m currently learning [Web Exploitation][web]
-- ☠️ 2021 Goals: Road to [OSCP][oscp] , [Omniscient & Top 10][hackthebox] , & [0xGOD & Top 100][tryhackme]
+- ☠️ 2021 Goals: Road to [OSCP][oscp] , [Omniscient & Top 10][hackthebox] , & [0xGOD & Top 100][tryhackme] , Traveling around the world
 - 👻 Fun fact: I'm Professional Electro Dancer.
 
 ### Connect with me:
