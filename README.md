@@ -6,14 +6,14 @@
 
 [![Website](https://img.shields.io/website?label=fg0d.github.io&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://fg0d.github.io/)
 
-## I'm a Cyber Security Instructor, Researcher , Bug Hunter , CTF Player 🕵🏻‍♂️
+## Я инструктор по кибербезопасности, исследователь, Bug Hunter, CTF Player 🕵🏻‍♂️
 
-- 🤖 I’m currently working on a [LIVE MACHINE HACKING][hackthebox]
-- 👾 I’m currently learning [Web Exploitation][web]
-- ☠️ 2021 Goals: Road to [OSCP][oscp] , [Omniscient & Top 10][hackthebox] , & [0xGOD & Top 100][tryhackme] , Traveling around the world
-- 👻 Fun fact: I'm Professional Electro Dancer.
+- 🤖 Я сейчас работаю над [LIVE MACHINE HACKING][hackthebox]
+- 👾 Я сейчас учусь [Web Exploitation][web]
+- ☠️ Цели на 2021 год: Дорога к [OSCP][oscp] , [Omniscient & Top 10][hackthebox] , & [0xGOD & Top 100][tryhackme] , Traveling around the world
+- 👻 Интересный факт: я профессиональный танцор-электро.
 
-### Connect with me:
+### Связаться со мной:
 
 [<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="FantasM | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -21,7 +21,7 @@
 
 <br />
 
-  <summary>:zap: Github Stats</summary>
+  <summary>:zap: Статистика Github</summary>
 <br />
   <img align="left" alt="fg0d" src="https://github-readme-stats.fg0d.vercel.app/api?username=fg0d&show_icons=true&hide_border=true&theme=radical" />
 
