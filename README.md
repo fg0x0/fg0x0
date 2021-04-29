@@ -1,4 +1,4 @@
-#### You can call me fg0d if you can pronounce it xD. Briefly, I have spent my University Career studying Cyber Security and I am an Cyber Security Instructor. I hacked over 200+ machines around HackTheBox, TryHackMe, RootMe, VulnHub.. and I constantly study new ways of breaking through defenses, CVEs and zero days. [fg0d][website] 🏴‍☠️
+#### Можете называть меня fg0d, если умеете это произносить. Вкратце, я провел свою университетскую карьеру, изучая кибербезопасность, и я являюсь инструктором по кибербезопасности. Я взломал более 200 машин вокруг HackTheBox, TryHackMe, RootMe, VulnHub ... и я постоянно изучаю новые способы прорыва защиты, CVE и нулевых дней. [fg0d][website] 🏴‍☠️
 
 <img src="http://www.hackthebox.eu/badge/image/126217" alt="Hack The Box"> <img src=https://www.hackthebox.eu/badge/team/image/2385 alt=HackTheBox>
 <img src=https://www.hackthebox.eu/badge/team/image/3729 alt=HackTheBox>
