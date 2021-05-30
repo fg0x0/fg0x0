@@ -1,7 +1,6 @@
 #### Можете называть меня fg0d, если умеете это произносить. Вкратце, я провел свою университетскую карьеру, изучая кибербезопасность, и я являюсь инструктором по кибербезопасности. Я взломал более 200 машин вокруг HackTheBox, TryHackMe, RootMe, VulnHub ... и я постоянно изучаю новые способы прорыва защиты, CVE и нулевых дней. [fg0d][website] 🏴‍☠️
 
-<img src="http://www.hackthebox.eu/badge/image/126217" alt="Hack The Box"> <img src=https://www.hackthebox.eu/badge/team/image/2385 alt=HackTheBox>
-
+<img src="http://www.hackthebox.eu/badge/image/126217" alt="Hack The Box">
 
 [![Website](https://img.shields.io/website?label=fg0d.github.io&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://fg0d.github.io/)
 
@@ -19,9 +18,9 @@
 [<img align="left" alt="fgoddd | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
-
   <summary>:zap: Статистика Github</summary>
 <br />
+
   <img align="left" alt="fg0d" src="https://github-readme-stats.fg0d.vercel.app/api?username=fg0d&show_icons=true&hide_border=true&theme=radical" />
 
 [hackthebox]: https://www.hackthebox.eu/home/users/profile/126217
