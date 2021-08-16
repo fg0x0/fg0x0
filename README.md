@@ -1,6 +1,6 @@
 #### Hi everyone. Yalguun AKA fg0d here. I'm 22. CyberSec Expert , Youtuber , Researcher , Pentester , Instructor at System Center. Certifications: C(EH/PENT/HFI). In my spare time, I enjoy to playing CTFs and sharing knowledge with people. I hacked over 200+ machines around HackTheBox, TryHackMe, RootMe, VulnHub.. and I constantly study new ways of breaking through defenses , CVEs and zero days. Thanks for inviting me to this community. :wave: [fg0d][website] 🏴‍☠️
 
-<img src="http://www.hackthebox.eu/badge/image/126217" alt="Hack The Box"> <img src="https://www.hackthebox.eu/badge/team/image/3915" alt="Hack The Box">
+<img src="http://www.hackthebox.eu/badge/image/126217" alt="Hack The Box"> <img src="https://www.hackthebox.eu/badge/team/image/2385" alt="Hack The Box">
 
 [![Website](https://img.shields.io/website?label=fg0d.github.io&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://fg0d.github.io/)
 
