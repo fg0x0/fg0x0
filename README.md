@@ -5,7 +5,7 @@
 [![Website](https://img.shields.io/website?label=fg0d.github.io&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://fg0d.github.io/)
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=keyword&title=зочилсон-хүмүүсийн-тоо)
 
-## Я инструктор по кибербезопасности, исследователь, Bug Hunter, CTF Player 🕵🏻‍♂️
+## I am Cyber Security Instructor, Researcher, Bug Hunter, CTF Player 🕵🏻‍♂️ 🕵🏻‍♂️
 
 - 🤖 Я сейчас работаю над [LIVE MACHINE HACKING][hackthebox]
 - 👾 Я сейчас учусь [Web Exploitation][web]
