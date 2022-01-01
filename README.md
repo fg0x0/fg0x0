@@ -9,7 +9,7 @@
 
 - 🤖 Я сейчас работаю над [LIVE MACHINE HACKING][hackthebox]
 - 👾 Я сейчас учусь [Web Exploitation][web]
-- ☠️ Цели на 2021 год: Дорога к [OSCP][oscp] , [Omniscient & Top 10][hackthebox] , & [0xGOD & Top 100][tryhackme] , Traveling around the world
+- ☠️ Цели на 2022 год: Дорога к [OSCP][oscp] , [Omniscient & Top 10][hackthebox] , Traveling around the world
 - 👻 Интересный факт: я профессиональный танцор-электро.
 
 ### Связаться со мной:
