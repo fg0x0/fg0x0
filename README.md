@@ -1,4 +1,4 @@
-#### Hi everyone. Yalguun AKA fg0d here. I'm 23. CyberSec Expert , Youtuber , Researcher , Pentester. In my spare time, I enjoy to playing CTFs and sharing knowledge with people. I hacked over 200+ machines around HackTheBox, TryHackMe, RootMe, VulnHub.. and I constantly study new ways of breaking through defenses , CVEs and zero days. :wave: [fg0d][website] 🏴‍☠️
+#### Hi everyone. Yalguun AKA fg0d here. I'm 23. CyberSec Researcher , Pentester. In my spare time, I enjoy to playing CTFs and sharing knowledge with people. I hacked over 200+ machines around HackTheBox, TryHackMe, RootMe, VulnHub.. and I constantly study new ways of breaking through defenses , CVEs and zero days. :wave: [fg0d][website] 🏴‍☠️
 
 <img src="http://www.hackthebox.eu/badge/image/126217" alt="Hack The Box">
 
