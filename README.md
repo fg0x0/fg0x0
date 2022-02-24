@@ -1,4 +1,4 @@
-#### Hi everyone. Yalguun AKA fg0d here. I'm 23. CyberSec Researcher , Pentester. In my spare time, I enjoy to playing CTFs and sharing knowledge with people. I hacked over 200+ machines around HackTheBox, TryHackMe, RootMe, VulnHub.. and I constantly study new ways of breaking through defenses , CVEs and zero days. :wave: [fg0d][website] 🏴‍☠️
+### Говорить дешево, Покажи мне свое мастерство [fg0d][website] 🏴‍☠️
 
 <img src="http://www.hackthebox.eu/badge/image/126217" alt="Hack The Box">
 <img src="https://www.hackthebox.com/badge/team/image/4639" alt="Hack The Box">
@@ -6,12 +6,12 @@
 [![Website](https://img.shields.io/website?label=fg0d.github.io&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://fg0d.github.io/)
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=keyword&title=зочилсон-хүмүүсийн-тоо)
 
-## I am Cyber Security Instructor, Researcher, Bug Hunter, CTF Player
+## Энтузиаст кибербезопасности
 
 - 🤖 Я сейчас работаю над [LIVE MACHINE HACKING][hackthebox]
 - 👾 Я сейчас учусь [Web Exploitation][web]
 - ☠️ Цели на 2022 год: Дорога к [OSCP][oscp] , [Omniscient & Top 10][hackthebox] , Traveling around the world
-- 👻 Интересный факт: я профессиональный танцор-электро.
+- 👻 Интересный факт: я профессиональный танцор-электро
 
 ### Связаться со мной:
 
