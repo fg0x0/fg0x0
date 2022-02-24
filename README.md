@@ -1,4 +1,4 @@
-### Говорить дешево, Покажи мне свое мастерство [fg0d][website] 🏴‍☠️
+### APT10 [fg0d][website] 🏴‍☠️
 
 <img src="http://www.hackthebox.eu/badge/image/126217" alt="Hack The Box">
 <img src="https://www.hackthebox.com/badge/team/image/4639" alt="Hack The Box">
