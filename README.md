@@ -10,8 +10,8 @@
 ## Энтузиаст кибербезопасности
 
 - 🤖 Я сейчас работаю над [LIVE MACHINE HACKING][hackthebox]
-- 👾 Я сейчас учусь [Web Exploitation][web]
-- ☠️ Цели на 2022 год: Дорога к [OSCP][oscp] , [Omniscient & Top 10][hackthebox] , Traveling around the world
+- 👾 I am studying right now: [Web Exploitation][web], Offensive Security Experienced Penetration tester [OSEP][osep]
+- ☠️ Goals for 2022: Road to [OSCP][oscp] , [Omniscient & Top 10][hackthebox] , Traveling around the world
 - 👻 Интересный факт: я профессиональный танцор-электро
 
 ### Связаться со мной:
@@ -36,3 +36,4 @@
 [web]: https://www.youtube.com/watch?v=Ll31QMh3kBM&list=PLWOqJmFMmcPlruwKWnmVxe3V5MePgadYI
 [tryhackme]: https://tryhackme.com/p/fg0d
 [github-large]: https://tryhackme-badges.s3.amazonaws.com/fg0d.png
+[OSEP]: https://www.offensive-security.com/pen300-osep/
