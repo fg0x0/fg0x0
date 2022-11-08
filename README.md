@@ -7,14 +7,14 @@
 
 ![Snake animation](https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg)
 
-## Энтузиаст кибербезопасности
+## Cybersecurity Enthusiast:
 
-- 🤖 Я сейчас работаю над [LIVE MACHINE HACKING][hackthebox]
-- 👾 I am studying right now: [Web Exploitation][web], Offensive Security Experienced Penetration tester [OSEP][osep]
+- 🤖 I am currently working on [LIVE MACHINE HACKING][hackthebox], Windows Kernel Exploitation, Active Directory Hacking
+- 👾 I am studying right now: [Web Exploitation][web], [OSEP][osep] ( Offensive Security Experienced Penetration tester )
 - ☠️ Goals for 2022: Road to [OSCP][oscp] , [Omniscient & Top 10][hackthebox] , Traveling around the world
-- 👻 Интересный факт: я профессиональный танцор-электро
+- 👻 Fun fact: I am a professional Electro Dancer
 
-### Связаться со мной:
+### Contact with me:
 
 [<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="FantasM | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
