@@ -9,9 +9,9 @@
 
 ## Cybersecurity Enthusiast:
 
-- ☠️ Goals for 2023: Road to [OSWE][oswe], [OSED][osed], [Burp Suite Certified Practitioner][burp], [Omniscient & Top 10][hackthebox], Traveling around the world
-- 🤖 I am currently working on [LIVE MACHINE HACKING][hackthebox], Windows Kernel Exploitation, Active Directory Hacking
-- 👾 I am studying right now: [Web Exploitation][web], [OSEP][osep] ( Offensive Security Experienced Penetration tester )
+- ☠️ Goals for 2023: Road to [OSWE][oswe] | [OSED][osed] | [Burp Suite Certified Practitioner][burp] | [Omniscient & Top 10][hackthebox] | Traveling around the world
+- 🤖 I am currently working on [LIVE MACHINE HACKING][hackthebox] | Windows Kernel Exploitation | Active Directory Hacking
+- 👾 I am studying right now: [Web Exploitation][web] | [OSEP][osep] ( Offensive Security Experienced Penetration tester )
 - 👻 Fun fact: I am a professional Electro Dancer
 
 ### Contact with me:
