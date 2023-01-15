@@ -11,7 +11,7 @@
 
 - 🤖 I am currently working on [LIVE MACHINE HACKING][hackthebox], Windows Kernel Exploitation, Active Directory Hacking
 - 👾 I am studying right now: [Web Exploitation][web], [OSEP][osep] ( Offensive Security Experienced Penetration tester )
-- ☠️ Goals for 2023: Road to [OSWE][oswe] , [OSED][osed] , [Omniscient & Top 10][hackthebox] , Traveling around the world
+- ☠️ Goals for 2023: Road to [OSWE][oswe] , [OSED][osed] , [Burp Suite Certified Practitioner][burp][Omniscient & Top 10][hackthebox] , Traveling around the world
 - 👻 Fun fact: I am a professional Electro Dancer
 
 ### Contact with me:
@@ -38,3 +38,4 @@
 [github-large]: https://tryhackme-badges.s3.amazonaws.com/fg0d.png
 [OSEP]: https://www.offensive-security.com/pen300-osep/
 [osed]: https://www.offensive-security.com/courses/exp-301/
+[burp]: https://portswigger.net/web-security/certification
