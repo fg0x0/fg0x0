@@ -24,7 +24,7 @@
 <br />
 
 [hackthebox]: https://www.hackthebox.eu/home/users/profile/126217
-[website]: https://fg0d.github.io/
+[website]: https://fg0x0.gitbook.io/
 [youtube]: https://youtube.com/fantasm
 [instagram]: https://instagram.com/fgoddd
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
