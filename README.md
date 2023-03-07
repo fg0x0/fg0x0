@@ -7,9 +7,9 @@
 
 ### Contact with me:
 
-[<img align="left" alt="" width="42px" src="https://raw.githubusercontent.com/fg0x0/fg0x0/master/WWW.svg" />][website]
-[<img align="left" alt="FantasM | YouTube" width="42px" src="https://raw.githubusercontent.com/fg0x0/fg0x0/master/Youtube.svg" />][youtube]
-[<img align="left" alt="fgoddd | Instagram" width="42px" src="https://raw.githubusercontent.com/fg0x0/fg0x0/master/Instagram.svg" />][instagram]
+[<img align="left" alt="" width="50px" src="https://raw.githubusercontent.com/fg0x0/fg0x0/master/WWW.svg" />][website]
+[<img align="left" alt="FantasM | YouTube" width="50px" src="https://raw.githubusercontent.com/fg0x0/fg0x0/master/Youtube.svg" />][youtube]
+[<img align="left" alt="fgoddd | Instagram" width="50px" src="https://raw.githubusercontent.com/fg0x0/fg0x0/master/Instagram.svg" />][instagram]
 
 ![Snake animation](https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg)
 
