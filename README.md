@@ -20,9 +20,9 @@
 [<img align="left" alt="fgoddd | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <img src="https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif" width="100">
-
+<br>
 [![Website](https://img.shields.io/website?label=fg0x0.gitbook.io&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://fg0x0.gitbook.io/)
-
+<br>
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=keyword&title=зочилсон-хүмүүсийн-тоо)
 
 [hackthebox]: https://www.hackthebox.eu/home/users/profile/126217
