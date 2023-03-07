@@ -1,6 +1,8 @@
+### Global Ranking:
 <img src="http://www.hackthebox.eu/badge/image/126217" alt="Hack The Box">
 <img src="https://www.hackthebox.com/badge/team/image/2102" alt="Hack The Box">
 
+### Certifications:
 <img src="https://raw.githubusercontent.com/fg0x0/fg0x0/master/oscp.png" width="150"><img src="https://raw.githubusercontent.com/fg0x0/fg0x0/master/osep.png" width="150">
 
 ![Snake animation](https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg)
