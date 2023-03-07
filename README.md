@@ -5,20 +5,20 @@
 ### Certifications:
 <img src="https://raw.githubusercontent.com/fg0x0/fg0x0/master/oscp.png" width="150"><img src="https://raw.githubusercontent.com/fg0x0/fg0x0/master/osep.png" width="150">
 
+### Contact with me:
+
+[<img align="left" alt="" width="42px" src="https://raw.githubusercontent.com/fg0x0/fg0x0/master/WWW.svg" />][website]
+[<img align="left" alt="FantasM | YouTube" width="42px" src="https://raw.githubusercontent.com/fg0x0/fg0x0/master/Youtube.svg" />][youtube]
+[<img align="left" alt="fgoddd | Instagram" width="42px" src="https://raw.githubusercontent.com/fg0x0/fg0x0/master/Instagram.svg" />][instagram]
+
 ![Snake animation](https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg)
 
-## Cybersecurity Enthusiast:
+### Cybersecurity Enthusiast:
 
 - ☠️ Goals for 2023: Road to [OSWE][oswe] | [OSED][osed] | [Burp Suite Certified Practitioner][burp] | [Omniscient & Top 10][hackthebox] | Traveling around the world
 - 🤖 I am currently working on [LIVE MACHINE HACKING][hackthebox] | Windows Kernel Exploitation | Active Directory Hacking
 - 👾 I am studying right now: [OSWE][oswe] | Malware Analysis
 - 👻 Fun fact: I am a professional Electro Dancer
-
-### Contact with me:
-
-[<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="FantasM | YouTube" width="22px" src="https://raw.githubusercontent.com/fg0x0/fg0x0/master/Youtube.svg" />][youtube]
-[<img align="left" alt="fgoddd | Instagram" width="22px" src="https://raw.githubusercontent.com/fg0x0/fg0x0/master/Instagram.svg" />][instagram]
 
 [<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
