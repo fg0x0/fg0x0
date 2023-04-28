@@ -16,9 +16,9 @@
 
 ### Cybersecurity Enthusiast:
 
-- ☠️ Goals for 2023: Road to [OSWE][oswe] | [OSED][osed] | [Burp Suite Certified Practitioner][burp] | [Omniscient & Top 10][hackthebox] | Traveling around the world
+- ☠️ Goals for 2023: Road to [OSWE][oswe] | [OSED][osed] | [Synack Red Teamer][synack] | [Omniscient & Top 10][hackthebox] | Traveling around the world
 - 🤖 I am currently working on [LIVE MACHINE HACKING][hackthebox] | Windows Kernel Exploitation | Active Directory Hacking
-- 👾 I am studying right now: [OSWE][oswe] | Malware Analysis
+- 👾 I am studying right now: [OSWE][oswe] | Malware Analysis | AV Evasion Techniques
 - 👻 Fun fact: I am a professional Electro Dancer
 
 [<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -47,3 +47,4 @@
 [osed]: https://www.offensive-security.com/courses/exp-301/
 [burp]: https://portswigger.net/web-security/certification
 [facebook]: https://www.facebook.com/fg0x0/
+[synack]: https://www.synack.com/red-team/
