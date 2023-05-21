@@ -15,7 +15,7 @@
 
 ![Snake animation](https://github.com/GuillaumeFalourd/GuillaumeFalourd/blob/output/github-contribution-grid-snake.svg)
 
-### Cybersecurity Enthusiast:
+### 🐱‍👤 CyberSecurity Career:
 
 - ☠️ Goals for 2023: Road to [OSWE][oswe] | [OSED][osed] | [Synack Red Teamer][synack] | [Omniscient & Top 10][hackthebox] | Traveling around the world
 - 🤖 I am currently working on [LIVE MACHINE HACKING][hackthebox] | Windows Kernel Exploitation | Active Directory Hacking
