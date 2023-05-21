@@ -22,9 +22,6 @@
 - 👾 I am studying right now: [OSWE][oswe] | Malware Analysis | AV Evasion Techniques
 - 👻 Fun fact: I am a professional Electro Dancer
 
-[<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-
-<br>
 <img src="https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif" width="100">
 
 [![Website](https://img.shields.io/website?label=fg0x0.gitbook.io&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://fg0x0.gitbook.io/)
