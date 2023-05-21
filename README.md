@@ -8,7 +8,7 @@
 ### 📢 Contact with me:
 
 [<img align="left" alt="FantasM | YouTube" width="50px" src="https://raw.githubusercontent.com/fg0x0/fg0x0/master/Youtube.svg" />][youtube]
-[<img align="left" alt="" width="50px" src="https://raw.githubusercontent.com/fg0x0/fg0x0/master/linked.svg" />][linkedin]
+[<img align="left" alt="linkedin" width="50px" src="https://raw.githubusercontent.com/fg0x0/fg0x0/master/linkedin.svg" />][linkedin]
 [<img align="left" alt="" width="50px" src="https://raw.githubusercontent.com/fg0x0/fg0x0/master/WWW.svg" />][website]
 [<img align="left" alt="fgoddd | Instagram" width="50px" src="https://raw.githubusercontent.com/fg0x0/fg0x0/master/Instagram.svg" />][instagram]
 [<img align="left" alt="" width="50px" src="https://raw.githubusercontent.com/fg0x0/fg0x0/master/Facebook.svg" />][facebook]
@@ -49,4 +49,4 @@
 [burp]: https://portswigger.net/web-security/certification
 [facebook]: https://www.facebook.com/fg0x0/
 [synack]: https://www.synack.com/red-team/
-[facebook]: https://www.linkedin.com/in/yalguun/
+[linkedin]: https://www.linkedin.com/in/yalguun/
