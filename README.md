@@ -13,12 +13,12 @@
 [<img align="left" alt="fgoddd | Instagram" width="50px" src="https://raw.githubusercontent.com/fg0x0/fg0x0/master/Instagram.svg" />][instagram]
 [<img align="left" alt="" width="50px" src="https://raw.githubusercontent.com/fg0x0/fg0x0/master/Facebook.svg" />][facebook]
 <br><br>
-### 🐱‍👤 CyberSecurity Career:
+### ☠️ CyberSecurity Career:
 
 - ☠️ Goals for 2023: Road to [OSED][osed] | [Omniscient & Top 10][hackthebox]
 - 🤖 I am currently working on [LIVE MACHINE HACKING][hackthebox] | Windows Kernel Exploitation | Active Directory Hacking
 - 👾 I am studying right now: [OSED][osed] | Malware Analysis | AV Evasion Techniques | CVE
-- 
+
 <img src="https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif" width="100">
 
 [![Website](https://img.shields.io/website?label=fg0x0.gitbook.io&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://fg0x0.gitbook.io/)
