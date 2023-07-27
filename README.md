@@ -12,9 +12,7 @@
 [<img align="left" alt="" width="50px" src="https://raw.githubusercontent.com/fg0x0/fg0x0/master/WWW.svg" />][website]
 [<img align="left" alt="fgoddd | Instagram" width="50px" src="https://raw.githubusercontent.com/fg0x0/fg0x0/master/Instagram.svg" />][instagram]
 [<img align="left" alt="" width="50px" src="https://raw.githubusercontent.com/fg0x0/fg0x0/master/Facebook.svg" />][facebook]
-
-
-
+<br><br>
 ### 🐱‍👤 CyberSecurity Career:
 
 - ☠️ Goals for 2023: Road to [OSED][osed] | [Omniscient & Top 10][hackthebox]
