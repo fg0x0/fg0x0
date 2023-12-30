@@ -15,9 +15,9 @@
 <br><br>
 ### ☠️ CyberSecurity Career:
 
-- ☠️ Goals for 2023: Road to [OSED][osed] | [Omniscient & Top 10][hackthebox]
-- 🤖 I am currently working on [LIVE MACHINE HACKING][hackthebox] | Windows Kernel Exploitation | Active Directory Hacking
-- 👾 I am studying right now: [OSED][osed] | Malware Analysis | AV Evasion Techniques | CVE
+- ☠️ Goals for 2024: Road to [OSEE][osee] | [OSCE3][osce3] | [OSED][osed] | [Omniscient & Top 10][hackthebox]
+- 🤖 I am currently working on [LIVE MACHINE HACKING][hackthebox] | Windows Kernel Exploitation | Active Directory Hacking | Binary Exploitation
+- 👾 I am studying right now: [OSEE][osee] | [OSED][osed] | Malware Analysis | AV Evasion Techniques | CVE
 
 <img src="https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif" width="100">
 
@@ -44,3 +44,5 @@
 [facebook]: https://www.facebook.com/fg0x0/
 [synack]: https://www.synack.com/red-team/
 [linkedin]: https://www.linkedin.com/in/yalguun/
+[osce3]: https://www.offsec.com/offsec/osce3-certification/
+[osee]: https://www.offsec.com/courses/exp-401/
