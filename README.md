@@ -15,9 +15,9 @@
 <br><br>
 ### ☠️ CyberSecurity Career:
 
-- ☠️ Goals for 2025: Road to [OSEE][osee] | [OSCE3][osce3] | [OSED][osed] | [Omniscient & Top 10][hackthebox]
+- ☠️ Goals for 2025: Road to [OSEE][osee] | [Omniscient & Top 10][hackthebox]
 - 🤖 I am currently working on [LIVE MACHINE HACKING][hackthebox] | Windows Kernel Exploitation | Active Directory Hacking | Binary Exploitation
-- 👾 I am studying right now: [OSEE][osee] | [OSED][osed] | Malware Analysis | AV Evasion Techniques | CVE
+- 👾 I am studying right now: [OSEE][osee] | Malware Analysis | AV Evasion Techniques | CVE
 
 <img src="https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif" width="100">
 
