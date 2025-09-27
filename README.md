@@ -3,7 +3,7 @@
 <!-- <img src="https://www.hackthebox.com/badge/team/image/2102" alt="Hack The Box"> -->
 
 ### 🏆 Certifications:
-<img src="https://raw.githubusercontent.com/fg0x0/fg0x0/master/oscp.png" width="150"><img src="https://raw.githubusercontent.com/fg0x0/fg0x0/master/osep.png" width="150"><img src="https://raw.githubusercontent.com/fg0x0/fg0x0/master/oswe.png" width="150"><img src="https://raw.githubusercontent.com/fg0x0/fg0x0/master/synackkkkkkkkkkkkkkkkkkkkkkkkkk.jpg" width="150">
+<img src="https://raw.githubusercontent.com/fg0x0/fg0x0/refs/heads/master/OSCE3-Badge.png" width="150"><img src="https://raw.githubusercontent.com/fg0x0/fg0x0/refs/heads/master/OSED-Badge.png" width="150"><img src="https://raw.githubusercontent.com/fg0x0/fg0x0/refs/heads/master/OSEP-Badge.png" width="150"><img src="https://raw.githubusercontent.com/fg0x0/fg0x0/master/oswe.png" width="150"><img src="https://raw.githubusercontent.com/fg0x0/fg0x0/refs/heads/master/OSCP-Badge.png" width="150">
 
 ### 📢 Contact with me:
 
