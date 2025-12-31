@@ -25,7 +25,7 @@
 
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=keyword&title=зочилсон-хүмүүсийн-тоо)
 
-[hackthebox]: https://www.hackthebox.eu/home/users/profile/126217
+[hackthebox]: https://app.hackthebox.com/users/126217
 [website]: https://fg0x0.gitbook.io/
 [youtube]: https://youtube.com/fantasm
 [instagram]: https://instagram.com/fgoddd
