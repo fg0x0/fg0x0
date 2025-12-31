@@ -16,8 +16,8 @@
 ### ☠️ CyberSecurity Career:
 
 - ☠️ Goals for 2026: Road to [OSEE][osee], [CRTO I, II][crto], [BSCP][bscp] | [Omniscient & Top 10][hackthebox]
-- 🤖 I am currently working on [LIVE MACHINE HACKING][hackthebox] | Windows Kernel Exploitation | Active Directory Hacking | Binary Exploitation
-- 👾 I am studying right now: [OSEE][osee] | Malware Analysis | AV Evasion Techniques | CVE
+- 🤖 I am currently working on Youtube Content Creation | Bug Bounty Hunting
+- 👾 I am studying right now: [CRTO I,II][crto]
 
 <img src="https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif" width="100">
 
