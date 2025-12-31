@@ -15,7 +15,7 @@
 <br><br>
 ### ☠️ CyberSecurity Career:
 
-- ☠️ Goals for 2025: Road to [OSEE][osee] | [Omniscient & Top 10][hackthebox]
+- ☠️ Goals for 2026: Road to [OSEE][osee], [CRTO I, II][crto], [BSCP][bscp] | [Omniscient & Top 10][hackthebox]
 - 🤖 I am currently working on [LIVE MACHINE HACKING][hackthebox] | Windows Kernel Exploitation | Active Directory Hacking | Binary Exploitation
 - 👾 I am studying right now: [OSEE][osee] | Malware Analysis | AV Evasion Techniques | CVE
 
@@ -46,3 +46,5 @@
 [linkedin]: https://www.linkedin.com/in/yalguun/
 [osce3]: https://www.offsec.com/offsec/osce3-certification/
 [osee]: https://www.offsec.com/courses/exp-401/
+[crto]: https://training.zeropointsecurity.co.uk/courses/red-team-ops
+[bscp]: https://portswigger.net/web-security/certification
