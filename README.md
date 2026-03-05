@@ -1,6 +1,7 @@
 ## CVE
 
 - CVE-2026-28342
+- CVE-2026-29188
 
 ## 🏆 Certifications:
 
