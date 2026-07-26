@@ -5,9 +5,9 @@
 <br>
 
 [![HackerOne](https://img.shields.io/badge/HackerOne-fg0x0-494649?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/fg0x0)
-[![Google VRP](https://img.shields.io/badge/Google_VRP-Yalguun-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://bughunters.google.com/profile/c0a6ac02-5063-4a5b-b034-df1b89498920)
+[![Google VRP](https://img.shields.io/badge/Google_VRP-Yalguun-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://bughunters.google.com/profile/e4cc5a2b-5636-46b1-9d7f-8c5e162f5d90)
 [![YesWeHack](https://img.shields.io/badge/YesWeHack-fg0x0-DC0032?style=for-the-badge)](https://yeswehack.com/hunters/fg0x0)
-[![Standoff 365](https://img.shields.io/badge/Standoff_365-Profile-00DC82?style=for-the-badge)](https://standoff365.com/profile)
+[![Standoff 365](https://img.shields.io/badge/Standoff_365-Profile-00DC82?style=for-the-badge)](https://standoff365.com/en-US/profile/fg0x0/)
 
 <br>
 
