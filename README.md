@@ -1,6 +1,6 @@
 <div align="center">
 
-**Offensive Security Researcher · HackerOne Ambassador**
+## Offensive Security Researcher · HackerOne Ambassador <img src="https://flagcdn.com/20x15/mn.png" width="18">
 
 <br>
 
@@ -23,6 +23,8 @@
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Google](https://img.shields.io/badge/Google-4285F4?style=flat-square&logo=google&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 ![U.S. DoD](https://img.shields.io/badge/U.S._DoD-003366?style=flat-square&logoColor=white)
 ![Coinbase](https://img.shields.io/badge/Coinbase-0052FF?style=flat-square&logo=coinbase&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
@@ -36,9 +38,16 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Monero](https://img.shields.io/badge/Monero-FF6600?style=flat-square&logo=monero&logoColor=white)
 ![Crypto.com](https://img.shields.io/badge/Crypto.com-002D74?style=flat-square&logo=cryptocom&logoColor=white)
+![Gojek](https://img.shields.io/badge/Gojek-00AA13?style=flat-square&logo=gojek&logoColor=white)
 ![Mars](https://img.shields.io/badge/Mars-0D1F63?style=flat-square&logoColor=white)
 ![MTN](https://img.shields.io/badge/MTN_Group-FFCC00?style=flat-square&logoColor=black)
 ![Mobicom](https://img.shields.io/badge/Mobicom-E60012?style=flat-square&logoColor=white)
+![Golomt Bank](https://img.shields.io/badge/Golomt_Bank-00529B?style=flat-square&logoColor=white)
+![Concrete CMS](https://img.shields.io/badge/Concrete_CMS-6DB33F?style=flat-square&logoColor=white)
+![ExpressionEngine](https://img.shields.io/badge/ExpressionEngine-285090?style=flat-square&logoColor=white)
+![Tucows](https://img.shields.io/badge/Tucows-3C8B2E?style=flat-square&logoColor=white)
+![Revive Adserver](https://img.shields.io/badge/Revive_Adserver-3A3A3A?style=flat-square&logoColor=white)
+![MANSCAPED](https://img.shields.io/badge/MANSCAPED-1A1A1A?style=flat-square&logoColor=white)
 
 ---
 
